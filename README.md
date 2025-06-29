@@ -33,7 +33,7 @@ This project analyzes historical soccer match data to test whether women's inter
 
 ## 🧰 Tech Stack
 
-- **Language:** Python
+- **Language:** Python (Jupyter Notebook)
 - **Libraries:**  
   - `pandas`, `numpy`  
   - `matplotlib`, `seaborn`  
